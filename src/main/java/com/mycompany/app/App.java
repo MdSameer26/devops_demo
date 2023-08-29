@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Welcome to DIET Collage..." );
+        System.out.println( "Welcome to DIET Collage,This is WorkShop Session ..." );
     }
 }
